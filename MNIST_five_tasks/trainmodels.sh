@@ -1,0 +1,10 @@
+python trainmodels.py 0 PreActResNet18 30
+python trainmodels.py 1 PreActResNet18 30
+python trainmodels.py 2 PreActResNet18 30
+python trainmodels.py 3 PreActResNet18 30
+python trainmodels.py 4 PreActResNet18 30
+python trainmodels.py 0 basic 400
+python trainmodels.py 1 basic 400
+python trainmodels.py 2 basic 400
+python trainmodels.py 3 basic 400
+python trainmodels.py 4 basic 400
