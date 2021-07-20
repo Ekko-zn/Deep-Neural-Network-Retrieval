@@ -1,19 +1,19 @@
 # Deep-Neural-Network-Retrieval
 This repo is initial implementation for the paper "Deep Neural Network Retrieval"
 ## How to run
-Take five-tasks (MNIST) as an example
+Take five-tasks (MNIST) as an example (containing three steps)
 ```
 cd MNIST_five_tasks
 ```
-First step: preprocess dataset
+First: preprocess dataset
 ```
 python processdata.py
 ```
-Next: train models
+Second: train models
 ```
 bash trainmodels.sh
 ```
-Next: <br>
+Third: <br>
 
 Vector-based semantic feature extraction
 ```
